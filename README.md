@@ -1,4 +1,4 @@
-Math Learning Web Application
+Welcome to Math Mania: A Math Learning Web Application!
 
 This is a web application designed as an educational resource for young kids to practice math equations and learn fun facts about numbers. It utilizes HTML, CSS, JavaScript, Node.js, and a SQL database.
 
