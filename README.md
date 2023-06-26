@@ -19,3 +19,6 @@ Clone the repository or download the source code. Open a terminal or command pro
 Accessing the Web Application Once the server is running, open your web browser. Open index.html file with live server
 
 License This project is licensed under the MIT License.
+
+Hosted on AWS Amplify:
+https://main.d3je7vqwufn01o.amplifyapp.com/hopehacks-myles2/public/home.html
