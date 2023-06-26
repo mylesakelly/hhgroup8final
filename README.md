@@ -22,7 +22,7 @@ User progress tracking: The application tracks and stores user progress, allowin
 
 INSTALLATION STEPS:
 
-Installation To run this application on your local computer, follow these steps:
+To install and run this application on your local computer, follow these steps:
 
 1. Clone this repository
 2. Open terminal or command prompt and navigate to the project directory
