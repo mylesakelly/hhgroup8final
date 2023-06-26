@@ -20,5 +20,5 @@ Accessing the Web Application Once the server is running, open your web browser.
 
 License This project is licensed under the MIT License.
 
-Hosted on AWS Amplify:
+Deployed on AWS Amplify:
 https://main.d3je7vqwufn01o.amplifyapp.com/hopehacks-myles2/public/home.html
